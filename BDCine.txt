@@ -1,0 +1,75 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Servidor: 127.0.0.1
+-- Tiempo de generación: 04-02-2026 a las 19:48:46
+-- Versión del servidor: 10.4.32-MariaDB
+-- Versión de PHP: 8.2.12
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de datos: `cine`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `pelicula`
+--
+
+CREATE TABLE `pelicula` (
+  `IdPelicula` int(11) NOT NULL,
+  `Titulo` varchar(50) NOT NULL,
+  `AnioEstreno` int(4) NOT NULL,
+  `Duracion` int(4) NOT NULL,
+  `Sinopsis` text NOT NULL,
+  `url_imagen` varchar(900) NOT NULL,
+  `CantidadEntradas` int(2) NOT NULL,
+  `precio` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `pelicula`
+--
+
+INSERT INTO `pelicula` (`IdPelicula`, `Titulo`, `AnioEstreno`, `Duracion`, `Sinopsis`, `url_imagen`, `CantidadEntradas`, `precio`) VALUES
+(1, 'Oopiri', 2016, 158, 'Impresionado por su actitud despreocupada, Vikram, un multimillonario tetrapléjico, contrata a un convicto en libertad condicional como su cuidador. Lo que sigue es una serie de lecciones de vida que aprenden unos de otros.', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7jXAOozd9WTkkQ-wkDUscCq4cOSHg6FU1w&s', 60, 6),
+(2, 'Thugs of Hindostan', 2018, 180, 'India, 1795. La Compañía Británica de las Indias Orientales que gobierna gran parte de la India se enfrenta a un gran desafío. La banda de piratas liderada por Khudabaksh Azaad (Amitabh Bachchan) representa una amenaza para el gobierno y aspira a liberar al país de los británicos, concretamente el subcontinente de la India conocido como Hindostan. Alarmado, el comandante británico, John Clive (Lloyd Owen), envía a un pequeño pirata de Awadh, Firangi Mallah (Aamir Khan) para infiltrarse y contrarrestar la amenaza.', 'https://es.web.img2.acsta.net/pictures/18/11/08/12/15/0174309.jpg', 58, 6),
+(3, 'Mission Majnu', 2023, 129, 'En la década de los 70, un espía indio acepta una peligrosa misión para destapar un programa de armas nucleares secreto en pleno corazón de Pakistán.', 'https://www.martincid.com/wp-content/uploads/2023/01/MV5BMTZjNmVkYjQtMDg2NS00OTA1LTk0MzQtMTJkOWFhMzM0NDI4XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_-400x500.jpg', 56, 6),
+(4, 'Dangal', 2016, 161, 'Mahavir Singh Phogat es un entrenador de lucha libre que prepara a sus hijas Babita Kumari y Geeta.', 'https://resizing.flixster.com/pgk7SHTEFR3NbWDlGMl4etn9rj4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkNWFlYmQxLTkyYzktNGZiYi1iN2JiLTU1MGRlNTM4ZDc0My53ZWJw', 53, 6),
+(5, 'Bharat', 2019, 155, 'Remake de la película coreana \"Oda a mi padre\" (2014). En una India que está a punto de ser independiente, una familia realiza un viaje arduo para lograr la libertad. El joven Bharat promete a su padre que mantendrá a su familia unida a toda costa.', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmxDn0eJToGw6XhI4uGi4nN0mzpGoulx7g&s', 58, 6);
+
+--
+-- Índices para tablas volcadas
+--
+
+--
+-- Indices de la tabla `pelicula`
+--
+ALTER TABLE `pelicula`
+  ADD PRIMARY KEY (`IdPelicula`);
+
+--
+-- AUTO_INCREMENT de las tablas volcadas
+--
+
+--
+-- AUTO_INCREMENT de la tabla `pelicula`
+--
+ALTER TABLE `pelicula`
+  MODIFY `IdPelicula` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
