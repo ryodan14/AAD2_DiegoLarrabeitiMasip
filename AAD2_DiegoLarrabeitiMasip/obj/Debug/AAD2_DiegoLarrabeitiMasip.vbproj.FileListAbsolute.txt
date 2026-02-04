@@ -1,0 +1,88 @@
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form2.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Resources.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.GenerateResource.cache
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.exe.config
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.exe
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.pdb
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form3.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.exe
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.pdb
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.exe.config
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form4.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Buffers.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Memory.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Json.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Buffers.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Memory.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Json.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_Die.E6F9AB13.Up2Date
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Peliculas.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Principal.resources
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\MySqlConnector.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\MySqlConnector.xml
+C:\Users\Diego\Desktop\dam2º\Acceso a Datos\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.exe.config
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.exe
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.pdb
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\AAD2_DiegoLarrabeitiMasip.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\MySqlConnector.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Buffers.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Memory.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Json.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\MySqlConnector.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Buffers.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Memory.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Text.Json.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.exe.config
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Principal.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form2.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form3.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Form4.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Resources.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.Peliculas.resources
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.GenerateResource.cache
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.vbproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_Die.E6F9AB13.Up2Date
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.exe
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.xml
+C:\Users\Diego\Desktop\ExamenAAD2\AAD2_DiegoLarrabeitiMasip\AAD2_DiegoLarrabeitiMasip\obj\Debug\AAD2_DiegoLarrabeitiMasip.pdb

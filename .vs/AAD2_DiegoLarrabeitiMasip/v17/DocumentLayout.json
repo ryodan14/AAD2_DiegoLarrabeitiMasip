@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|c:\\users\\diego\\desktop\\examenaad2\\aad2_diegolarrabeitimasip\\aad2_diegolarrabeitimasip\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\aad2_diegolarrabeitimasip\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32CE4FE2-48E7-42C0-85B5-00649FED490A}|AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip.vbproj|solutionrelative:aad2_diegolarrabeitimasip\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pelicula.vb",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\pelicula.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\pelicula.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\pelicula.vb",
+              "RelativeToolTip": "AAD2_DiegoLarrabeitiMasip\\pelicula.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:11:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Principal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Principal.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Principal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:17:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "RelativeToolTip": "AAD2_DiegoLarrabeitiMasip\\Principal.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:17:48.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:17:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "RelativeToolTip": "AAD2_DiegoLarrabeitiMasip\\Form2.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA1wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:18:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form3.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\dam2\u00BA\\Acceso a Datos\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form3.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:18:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "RelativeDocumentMoniker": "AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\ExamenAAD2\\AAD2_DiegoLarrabeitiMasip\\AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "RelativeToolTip": "AAD2_DiegoLarrabeitiMasip\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:20:40.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
